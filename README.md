@@ -3,7 +3,7 @@
 Bu proje, Windows işletim sistemi üzerinde çalışan kullanıcıların oturum hareketlerini, bilgisayar durumlarını ve temel aktivite sürelerini arka planda takip ederek yöneticilere detaylı gün sonu raporları sunan bir masaüstü loglama ve analiz aracıdır.
 
 ## Proje Tanıtım Videosu
- [Uygulamanın nasıl çalıştığını görmek için tıklayın](#)
+ [Uygulamanın nasıl çalıştığını görmek için tıklayın](https://youtu.be/m1ZZJExr27k?si=bs7w8vbkzNvpaEn2)
 
 ## Proje Amacı
 Çalışanların bilgisayar başındaki aktif ve pasif sürelerini, ekran kilitlenme durumlarını şeffaf bir şekilde kayıt altına almak; bu verileri anlamlı metrikler haline getirerek yönetici paneli üzerinden raporlamaktır.
