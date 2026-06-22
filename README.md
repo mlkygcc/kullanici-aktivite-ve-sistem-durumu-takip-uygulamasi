@@ -35,7 +35,7 @@ Bu proje, Windows işletim sistemi üzerinde çalışan kullanıcıların oturum
 
 1. Projeyi bilgisayarınıza klonlayın:
    ```bash
-   git clone [https://github.com/KullaniciAdiniz/UserActivityTracker.git](https://github.com/KullaniciAdiniz/UserActivityTracker.git)
+   git clone https://github.com/mlkygcc/kullanici-aktivite-ve-sistem-durumu-takip-uygulamasi.git
     ```
 
 2. SQL Server Management Studio'yu açarak sunucunuza bağlanın.
